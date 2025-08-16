@@ -1,0 +1,8 @@
+requests
+#huggingface_hub
+openai-whisper
+torch
+pyannote.audio 
+ffmpeg-python
+openai
+
