@@ -10,7 +10,7 @@ This project processes doctor-patient audio recordings to produce **speaker-diar
 ### 1. Speaker Diarization
 - **Input:** Raw doctor-patient audio (.mp3)  
 - **Model:** Pyannote Audio (`pyannote/speaker-diarization-3.1`)  
-- **Output:** Speaker-labeled segments (timestamps and speaker IDs)
+- **Output:** Speaker-labeled segments (speaker IDs)
 
 ### 2. Speech-to-Text Transcription
 - **Input:** Speaker-labeled audio segments  
